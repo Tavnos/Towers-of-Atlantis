@@ -6,10 +6,10 @@ Made by Tavnos Terrence
 Copyright Apache Mon/Oct/15th/[2018] [Alexandre Vieira]
 
 
-![alt text](https://github.com/Tavnos/Towers-of-Atlantis/edit/master/ToA_B.png)
+![alt img](https://github.com/Tavnos/Towers-of-Atlantis/edit/master/ToA_B.png)
 
-![alt text](https://github.com/Tavnos/Towers-of-Atlantis/edit/master/ToA_C.png)
+![alt img](https://github.com/Tavnos/Towers-of-Atlantis/edit/master/ToA_C.png)
 
-![alt text](https://github.com/Tavnos/Towers-of-Atlantis/edit/master/ToA_D.png)
+![alt img](https://github.com/Tavnos/Towers-of-Atlantis/edit/master/ToA_D.png)
 
-![alt text](https://github.com/Tavnos/Towers-of-Atlantis/edit/master/ToA_E.png)
+![alt img](https://github.com/Tavnos/Towers-of-Atlantis/edit/master/ToA_E.png)
