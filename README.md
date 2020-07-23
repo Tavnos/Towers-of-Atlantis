@@ -3,13 +3,11 @@ Python 3 2d RPG / Action game made from scratch with numpy and tkinter. Enjoy! M
 
 
 Made by Tavnos Terrence
-Copyright Apache Mon/Oct/15th/[2018] [Alexandre Vieira]
+Copyright Apache Mon/Oct/15th/[2018] 
 
 
-![alt img](https://github.com/Tavnos/Towers-of-Atlantis/edit/master/ToA_B.png)
 
-![alt img](https://github.com/Tavnos/Towers-of-Atlantis/edit/master/ToA_C.png)
-
-![alt img](https://github.com/Tavnos/Towers-of-Atlantis/edit/master/ToA_D.png)
-
-![alt img](https://github.com/Tavnos/Towers-of-Atlantis/edit/master/ToA_E.png)
+![alt img](https://github.com/Tavnos/Towers-of-Atlantis/blob/master/ToA_A.png)
+![alt img](https://github.com/Tavnos/Towers-of-Atlantis/blob/master/ToA_B.png)
+![alt img](https://github.com/Tavnos/Towers-of-Atlantis/blob/master/ToA_D.png)
+![alt img](https://github.com/Tavnos/Towers-of-Atlantis/blob/master/ToA_E.png)
